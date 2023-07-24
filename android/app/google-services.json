@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "335881698424",
+    "project_id": "cocktailsdb-81345",
+    "storage_bucket": "cocktailsdb-81345.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:335881698424:android:bfca9d31fa9da62369418d",
+        "android_client_info": {
+          "package_name": "com.company.flutterapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "335881698424-4b52ksahm4itjgesm8tci1ild2t6stlh.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCO13LybboI3hbhXdxpIKjvaXN3-aMDWnY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "335881698424-4b52ksahm4itjgesm8tci1ild2t6stlh.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
